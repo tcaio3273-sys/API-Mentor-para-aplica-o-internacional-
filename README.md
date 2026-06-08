@@ -1,2 +1,2 @@
-# API-Mentor-para-aplica-o-internacional-
+# API-Mentor-para-aplicação-internacional-
 Backend MVP de uma API de mentoria acessível com modelo freemium.
